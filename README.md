@@ -12,4 +12,4 @@ The output can be found in the `Output for texts` folder.
 * perform topic modelling with `C-CLAMP_topic modelling_authors.ipynb`
 * add the results to the author metadata file (`author_metadata_hisclass_final.txt`)
 
-The output can be found in the `Output for authors`folder.
+The output can be found in the `Output for authors` folder.
