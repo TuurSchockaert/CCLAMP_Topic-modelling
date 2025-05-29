@@ -7,6 +7,7 @@ For the individual texts:
 
 The output can be found in the `Output for texts` folder.
 
+
 For the authors' complete oeuvres:
 * first group the texts per author into a single .txt file using `C-CLAMP_group_by_author.ipynb`
 * perform topic modelling with `C-CLAMP_topic modelling_authors.ipynb`
